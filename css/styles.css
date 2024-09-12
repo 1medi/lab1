@@ -36,3 +36,12 @@ border-radius: 10px;
   justify-content: space-around;
 }
 
+.album-info{
+  display: flex;
+  flex-direction: column;
+}
+
+.album-inner{
+  display: flex;
+  flex-direction: column;
+}
